@@ -1,0 +1,22 @@
+{
+  "name": "alfastake-beta",
+  "version": "1.0.0",
+  "description": "Telegram Bot notifying staking info on Moonbeam - ALFASTAKE collator",
+  "main": "moonbeam_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "franz-86",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "8.6.2",
+    "axios": "^0.27.2",
+    "coingecko-api-v3": "^0.0.13",
+    "lowdb": "^3.0.0",
+    "moonbeam-types-bundle": "2.0.4",
+    "telegraf": "^4.8.3",
+    "telegraf-ignore-old-messages": "^1.0.3",
+    "typescript": "4.3.2"
+  },
+  "type": "module"
+}
