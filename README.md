@@ -1,1 +1,1 @@
-# alfastake_glmr_tgbot
+The bot makes heavy use of Subquery Indexer to fetch data from the blockchain. 
